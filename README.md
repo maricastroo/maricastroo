@@ -10,7 +10,7 @@ Seja muito bem-vindo(a)! Aqui você vai encontrar um pouquinho do meu universo e
 
 ---
 
-## 🛠️ Linguagens e ferramentas que uso
+## Algumas linguagens e ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
@@ -19,13 +19,13 @@ Seja muito bem-vindo(a)! Aqui você vai encontrar um pouquinho do meu universo e
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+## Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariana&show_icons=true&theme=radical&count_private=true)
 
 ---
 
-## 📲Redes
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-castro1)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kkjmari/)
