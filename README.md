@@ -6,7 +6,7 @@
 
 # Olá, eu sou a Mariana! 🌸👋 
 
-Seja muito bem-vindo(a)! Aqui você vai encontrar um pouquinho do meu universo e paixão por tecnologia💖.
+Seja muito bem-vindo(a)!
 
 ---
 
