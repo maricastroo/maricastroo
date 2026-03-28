@@ -3,7 +3,7 @@
 **✨About me**
 - I'm Mariana ☆
 - Brazilian
-- Computer Science student at PUCPR [6/8].
+- Computer Science student at PUCPR [7/8].
   
 **✨Languages & Tools**
 
